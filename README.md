@@ -12,7 +12,7 @@ The key purpose of this dashboard is to highlight which patient groups are waiti
 - Benchmark historical patterns for forecasting future demand.
 
   ![alt text](https://github.com/HenryUnaeze/Hopsital_Dashboard-/blob/main/Hospital%20Dashboard%20.png)
-  ![alt text](image.jpg)
+  ![alt text](https://github.com/HenryUnaeze/Hopsital_Dashboard-/blob/main/Hospital%20Dashboard%202%20.png)
 
 ## 🔧 How the Dashboard Works
 Users can filter the view by:
